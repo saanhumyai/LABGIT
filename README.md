@@ -1,1 +1,1 @@
-ÿþ
+print("sawaddeecub")
